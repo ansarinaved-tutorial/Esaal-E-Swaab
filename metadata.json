@@ -1,0 +1,6 @@
+{
+  "name": "Esaal-E-Swaab - Coming Soon",
+  "description": "A peaceful spiritual platform bringing hearts together through Quran recitation, good deeds, and collective spiritual dedication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3 @@
+
+<>Bash
+npx vercel --prod
